@@ -1,4 +1,4 @@
-aiohttp==3.11.11
+aiohttp==3.11.12
 py-cord[voice]==2.6.1
 ffmpeg-python==0.2.0
 google-api-python-client==2.156.0
